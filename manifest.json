@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "No Style Extension",
-  "version": "1.0.0",
-  "description": "Remove all CSS styling from the current page with a single click! Made with ❤️ for simplicity lovers.",
+  "name": "Enhanced Page Modifier",
+  "version": "1.1.0",
+  "description": "Remove styles, images, and format hyperlinks on any page with a single click!",
   "permissions": [
     "activeTab",
     "scripting"
